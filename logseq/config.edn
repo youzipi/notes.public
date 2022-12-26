@@ -315,4 +315,7 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
+ :journal/page-title-format "yyyy-MM-dd"
+ :editor/preferred-pasting-file? false
+ :default-home {:page "Contents"}
  }

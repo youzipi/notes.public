@@ -9,7 +9,7 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 ## Abstract
 - ((62d0df3d-d74a-4345-ba98-92f60e502070))
 	- 全文基于这个类比：棒球比赛中，不同角色的工作人员对于当前的比分，需要不同的一致性保证。
-	  background-color:: #533e7d
+	  background-color:: purple
 	   进而说明了不同的一致性保证的存在价值。
 ## Introduction
 - 比较了一下 MS's Azure Storage 和 aws s3 提供的不同的保证
@@ -50,7 +50,7 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 - this is similar to the `snapshot isolation` offered by many db.
 ### bounded staleness
 - late, but not too late.
-  background-color:: #533e7d
+  background-color:: purple
 - ensures that read results are `not too out-of-date`.
 - typically, staleness if defined by a time period `T`, say 5 minutes.
 - alternative, some systems define staleness in terms of `the number of missing writes` or even `amount of inaccuracy` in a data value.
@@ -72,9 +72,9 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 	- ((62d12fa3-6ff2-4640-b60b-3df46ced4f24))
 	- ((62d12f80-7d90-435b-924d-4cabbcc5694c))
 	- 不用管每个单元格的描述用词(比如：good，okey)，这个每个人的定义不一样，而且会受到具体实现方案的影响。
-	  background-color:: #533e7d
+	  background-color:: purple
 	- 这里，只需要关注，每一列上的对比：对于特定需求，不同 guarantee 在 光谱上的排布。
-	  background-color:: #533e7d
+	  background-color:: purple
 		- ![](https://docs.microsoft.com/en-us/azure/cosmos-db/media/consistency-levels/five-consistency-levels.png)
 	- 作者和他的微软同事已经实现了一个原型：在一个存储服务上，提供上面提到的所有 一致性保证。
 		- 这个原型，后来发展成了 `Cosmos DB`，在 2017年发布。
