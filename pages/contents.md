@@ -1,0 +1,2 @@
+- [[replicated data consistency explained through baseball]]
+-
