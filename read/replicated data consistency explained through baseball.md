@@ -63,7 +63,7 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 		- 具体地，在 cosmos db 中，bounded staleness 配置如下：
 			- replica set = 4
 			- write: majority quorum=3
-			- read: minority quorum=2
+			- read: minority quorum=2，取 LSN 值更大的 replica 的结果。
 		- 类似于 Redis 的 [[RDB]] 快照持久化配置：
 			- 达到时间阈值时，执行同步。
 			- 达到改动量阈值时，执行同步。
