@@ -30,9 +30,9 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 - Frequently, one needs to understand `how a system operates` in order to understand `what consistency` it provides in `what situations`.
 - The six consistency guarantees that I advocate in this section can be described in a `simple`, `implementation-independent` way.   This not only benefits application developers but also can `permit flexibility` in the `design`, `operation`, and `evolution` of the underlying storage system.
 - ((62d1049d-f538-4bcb-8515-6549b2138b58))
+### consistent prefix
 - what is `consistent prefix`?
 - how client handle with the all `old` writes?
-### consistent prefix
 - ((62ce744d-c15b-4dec-a235-554353baf726))
 	- 类似场景：微信朋友圈，a 评论；b 评论 a；c 先看到了 b 的评论，后看到了 a 的评论。
 	- 打破了因果关系
@@ -57,6 +57,12 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 - I find that time-bounded staleness is the `most natural concept` for application developers.
 - 如果 延迟设置为 0，那么就和 `strong` 一样，
   如果 延迟设置为 无穷，那么就和 `eventual` 一样。
+- 实现
+	- https://learn.microsoft.com/en-us/answers/questions/116045/azure-cosmosdb-consistency-understanding-bounded-s.html
+	- enforces the `amount of time` or `number of updates` in which data between the write region and secondary replicas are not consistent. When the data approaches the `staleness window`, bounded staleness will throttle the number of writes(aka: back pressure) in order to allow replication to catch up.
+		- 类似于 Redis 的 [[RDB]] 快照持久化配置：
+			- 达到时间阈值时，执行同步。
+			- 达到改动量阈值时，执行同步。
 ### monotonic reads
 - is a property that applies to a sequence of read operations that are performed by `a given storage system client`.
 - aka: `session guarantee`
@@ -219,3 +225,5 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 			- Cosmos DB 第一个提供了 5 种可选一致性保证
 			- 我用 TLA+ 帮忙验证了这些一致性保证的正确性
 			- 下面是我的 ~~公众号二维码~~ (TLA+ 视频教程）。
+- [Azure CosmosDB Consistency - Understanding Bounded Staleness_lean-ms](https://learn.microsoft.com/en-us/answers/questions/116045/azure-cosmosdb-consistency-understanding-bounded-s.html)
+-
