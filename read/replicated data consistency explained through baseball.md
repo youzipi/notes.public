@@ -60,6 +60,10 @@ source:: ![Replicated_Data_Consistency_Explained_Through_Baseball_62d0d81228d144
 - 实现
 	- https://learn.microsoft.com/en-us/answers/questions/116045/azure-cosmosdb-consistency-understanding-bounded-s.html
 	- enforces the `amount of time` or `number of updates` in which data between the write region and secondary replicas are not consistent. When the data approaches the `staleness window`, bounded staleness will throttle the number of writes(aka: back pressure) in order to allow replication to catch up.
+		- 具体地，在 cosmos db 中，bounded staleness 配置如下：
+			- replica set = 4
+			- write: majority quorum=3
+			- read: minority quorum=2
 		- 类似于 Redis 的 [[RDB]] 快照持久化配置：
 			- 达到时间阈值时，执行同步。
 			- 达到改动量阈值时，执行同步。
