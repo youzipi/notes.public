@@ -470,14 +470,12 @@ file-path:: ../assets/Designing_Data-Intensive_Applications_1651903501287_0.pdf
   ls-type:: annotation
   hl-page:: 247
   id:: 62d3b361-4bbb-4dff-876d-5516146d4a04
-- However,  in  practice,  one  database’s  implementation  of  ACID  does  not  equalanother’s  implementation.  For  example,  as  we  shall  see,  there  is  a  lot  of  ambiguityaround the meaning of isolation [8]. The high-level idea is sound, but the devil is inthe  details.  Today,  when  a  system  claims  to  be  “ACID  compliant,”  it’s  unclear  whatguarantees  you  can  actually  expect.  ACID  has  unfortunately  become  mostly  a  mar‐keting term.
-  ls-type:: annotation
-  hl-page:: 245
-  id:: 62d3b51e-700a-41e9-a648-2acb5accc74e
 - (Systems  that  do  not  meet  the  ACID  criteria  are  sometimes  called  BASE,  whichstands  for  Basically  Available,  Soft  state,  and  Eventual  consistency  [9].  This  is  evenmore vague than the definition of ACID. It seems that the only sensible definition ofBASE is “not ACID”; i.e., it can mean almost anything you want.)
   ls-type:: annotation
   hl-page:: 245
   id:: 62d3b97e-e94c-4319-b131-a9b74b751eed
+  hl-stamp:: 1680082695087
+  hl-color:: yellow
 - a network with bounded delay and nodes with bounded response times
   ls-type:: annotation
   hl-page:: 381
@@ -552,3 +550,8 @@ file-path:: ../assets/Designing_Data-Intensive_Applications_1651903501287_0.pdf
   id:: 63a94c4c-5320-4d46-bed3-d457b187bae6
   hl-type:: area
   hl-stamp:: 1672039498927
+- However, in practice, one database’s implementation of ACID does not equal another’s implementation. For example, as we shall see, there is a lot of ambiguity around the meaning of isolation [8]. The high-level idea is sound, but the devil is in the details. Today, when a system claims to be “ACID compliant,” it’s unclear what guarantees you can actually expect. ACID has unfortunately become mostly a mar‐ keting term.
+  ls-type:: annotation
+  hl-page:: 245
+  hl-color:: yellow
+  id:: 64240736-df7d-4f2c-b9f8-e00819c9d6f6

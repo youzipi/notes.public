@@ -1,1 +1,1462 @@
-{:highlights [{:id #uuid "62d0deab-b16f-4ccf-aaf0-350a5a0695e6", :page 1, :position {:bounding {:x1 86.390625, :y1 454.359375, :x2 881.9840698242188, :y2 504.125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 576.94580078125, :y1 454.359375, :x2 881.9840698242188, :y2 479.359375, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 479.125, :x2 165.13125610351562, :y2 504.125, :width 979.1999999999999, :height 1267.1999999999998}), :page 1}, :content {:text "in order to obtain better performance and availability."}, :properties {:color "yellow"}} {:id #uuid "62d0df3d-d74a-4345-ba98-92f60e502070", :page 1, :position {:bounding {:x1 86.390625, :y1 503.703125, :x2 894.0286102294922, :y2 553.46875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 185.4690399169922, :y1 503.703125, :x2 894.0286102294922, :y2 528.703125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 528.46875, :x2 752.8282470703125, :y2 553.46875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 532.46875, :x2 706.8395385742188, :y2 549.46875, :width 979.1999999999999, :height 1267.1999999999998}), :page 1}, :content {:text "During a baseball game, for example, different participants (the scorekeeper, umpire, sportswriter, and so on) benefit from six different consistency guarantees when reading the current score. "}, :properties {:color "yellow"}} {:id #uuid "62d0e180-b1b3-41f8-854e-26174804ec1b", :page 1, :position {:bounding {:x1 331.46783447265625, :y1 999.71875, :x2 472.5189208984375, :y2 1024.71875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 331.46783447265625, :y1 999.71875, :x2 472.5189208984375, :y2 1024.71875, :width 979.1999999999999, :height 1267.1999999999998}), :page 1}, :content {:text "Amazon’s SimpleDB"}, :properties {:color "yellow"}} {:id #uuid "62d0e186-ec65-4849-b08a-a57aa11c0ce1", :page 1, :position {:bounding {:x1 86.390625, :y1 1049.25, :x2 825.9273071289062, :y2 1098.828125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 684.9506225585938, :y1 1049.25, :x2 825.9273071289062, :y2 1074.25, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 1073.828125, :x2 156.3876953125, :y2 1098.828125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 1077.828125, :x2 98.859375, :y2 1094.828125, :width 979.1999999999999, :height 1267.1999999999998}), :page 1}, :content {:text "Google App Engine Datastore"}, :properties {:color "yellow"}} {:id #uuid "62d0e208-35b5-41ec-a840-0a33029120cb", :page 1, :position {:bounding {:x1 744.53125, :y1 1073.828125, :x2 792.9059448242188, :y2 1098.828125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 744.53125, :y1 1073.828125, :x2 792.9059448242188, :y2 1098.828125, :width 979.1999999999999, :height 1267.1999999999998}), :page 1}, :content {:text "PNUTS"}, :properties {:color "yellow"}} {:id #uuid "62d0e372-44b0-46be-965b-3ffa3a3bdbbc", :page 2, :position {:bounding {:x1 86.390625, :y1 163.625, :x2 883.8258666992188, :y2 213.390625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 861.417236328125, :y1 163.625, :x2 883.8258666992188, :y2 188.625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 188.390625, :x2 321.65264892578125, :y2 213.390625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 192.390625, :x2 295.640625, :y2 209.390625, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "no more than 5 minutes out-of-date"}, :properties {:color "yellow"}} {:id #uuid "62d0e379-0a6e-4ea8-b1de-2609b1e745b5", :page 2, :position {:bounding {:x1 436.0552673339844, :y1 188.390625, :x2 754.465087890625, :y2 213.390625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 436.0552673339844, :y1 188.390625, :x2 754.465087890625, :y2 213.390625, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "always observes the results of its own writes"}, :properties {:color "yellow"}} {:id #uuid "62d0e3af-89ff-493c-b600-4ce6204400a9", :page 2, :position {:bounding {:x1 695.5887451171875, :y1 213.34375, :x2 852.6360473632812, :y2 238.34375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 695.5887451171875, :y1 213.34375, :x2 852.6360473632812, :y2 238.34375, :width 979.1999999999999, :height 1267.1999999999998} {:x1 767.1875, :y1 217.34375, :x2 816.09375, :y2 234.34375, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "being less-than-useful"}, :properties {:color "yellow"}} {:id #uuid "62d0e412-3eca-4970-9b2f-01b4211b1846", :page 2, :position {:bounding {:x1 86.390625, :y1 253.859375, :x2 826.1068115234375, :y2 303.4375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 522.7178955078125, :y1 253.859375, :x2 826.1068115234375, :y2 278.859375, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 278.4375, :x2 387.9139099121094, :y2 303.4375, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text " there are fundamental tradeoffs between consistency, performance, and availability."}, :properties {:color "yellow"}} {:id #uuid "62d0e425-42ee-4954-8948-01c9e210d460", :page 2, :position {:bounding {:x1 707.7753295898438, :y1 303.203125, :x2 854.0531005859375, :y2 328.203125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 707.7753295898438, :y1 303.203125, :x2 854.0531005859375, :y2 328.203125, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "occupies some point"}, :properties {:color "yellow"}} {:id #uuid "62d0e4e7-31bd-43ef-8fb8-4a8d958fc1f3", :page 2, :position {:bounding {:x1 86.390625, :y1 368.671875, :x2 875.0911254882812, :y2 443.265625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 86.390625, :y1 368.671875, :x2 875.0911254882812, :y2 393.671875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 442.4375, :y1 372.671875, :x2 875.0911254882812, :y2 389.671875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 393.25, :x2 857.3482055664062, :y2 418.25, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 397.25, :x2 857.3482055664062, :y2 414.25, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 418.265625, :x2 432.0050048828125, :y2 443.265625, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "But are different consistencies useful in practice?  Can applicationdevelopers cope with eventual consistency?  Should cloud storage systems offer an even greater choice of consistency than the consistent and eventually consistent reads offered by Amazon’s SimpleDB?"}, :properties {:color "yellow"}} {:id #uuid "62d0e5dd-ca14-4aea-b9a2-4ccd2f2c3b83", :page 2, :position {:bounding {:x1 86.390625, :y1 623.125, :x2 859.3843994140625, :y2 672.703125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 542.3125, :y1 623.125, :x2 859.3843994140625, :y2 648.125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 564.78125, :y1 627.125, :x2 859.3843994140625, :y2 644.125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 647.703125, :x2 161.88717651367188, :y2 672.703125, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "sixpossible consistency guarantees for read operations"}, :properties {:color "yellow"}} {:id #uuid "62d0e5ec-3d3e-47d9-ae87-f47e2cfd7b8c", :page 2, :position {:bounding {:x1 86.390625, :y1 697.265625, :x2 832.8244018554688, :y2 747.03125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 193.375, :y1 697.265625, :x2 832.8244018554688, :y2 722.265625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 193.375, :y1 701.265625, :x2 832.8244018554688, :y2 718.265625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 722.03125, :x2 296.0364074707031, :y2 747.03125, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "examines the roles of various people who want to access the baseball score and the read consistency that each desires"}, :properties {:color "yellow"}} {:id #uuid "62d0e5f4-268b-4212-9bef-771cd8dd7f8f", :page 2, :position {:bounding {:x1 371.9812316894531, :y1 722.03125, :x2 679.2930908203125, :y2 747.03125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 371.9812316894531, :y1 722.03125, :x2 679.2930908203125, :y2 747.03125, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "draw conclusions from this simple example"}, :properties {:color "yellow"}} {:id #uuid "62d0e603-076d-42b1-95a2-38fb331e623e", :page 2, :position {:bounding {:x1 245.78125, :y1 647.703125, :x2 623.4410400390625, :y2 672.703125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 245.78125, :y1 647.703125, :x2 623.4410400390625, :y2 672.703125, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "presents an algorithm that emulates a baseball game"}, :properties {:color "yellow"}} {:id #uuid "62d10425-a2ed-47f6-b6a1-669d20ce25dc", :page 2, :position {:bounding {:x1 86.390625, :y1 954.796875, :x2 860.625, :y2 1004.5625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 524.681396484375, :y1 954.796875, :x2 860.625, :y2 979.796875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 525, :y1 958.796875, :x2 860.625, :y2 975.796875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 979.5625, :x2 211.00326538085938, :y2 1004.5625, :width 979.1999999999999, :height 1267.1999999999998}), :page 2}, :content {:text "can be described in a simple, implementation-independent way."}, :properties {:color "yellow"}} {:id #uuid "62d1049d-f538-4bcb-8515-6549b2138b58", :page 3, :position {:bounding {:x1 235, :y1 237, :x2 754, :y2 488, :width 979.1999999999999, :height 1267.1999999999998}, :rects (), :page 3}, :content {:text "[:span]", :image 1657865372808}, :properties {:color "yellow"}} {:id #uuid "62d10a15-253b-4d18-886b-9546ea8804a6", :page 3, :position {:bounding {:x1 86.390625, :y1 739.125, :x2 888.3805541992188, :y2 788.890625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 572.9182739257812, :y1 739.125, :x2 888.3805541992188, :y2 764.125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 763.890625, :x2 186.6814727783203, :y2 788.890625, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "an ordered sequence of writes starting with the first write "}, :properties {:color "yellow"}} {:id #uuid "62d10a5f-81a8-4914-b51d-f6e5fa845167", :page 3, :position {:bounding {:x1 433.617431640625, :y1 878.703125, :x2 569.986328125, :y2 903.703125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 433.617431640625, :y1 878.703125, :x2 569.986328125, :y2 903.703125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 513.484375, :y1 882.703125, :x2 544.359375, :y2 899.703125, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "not too out-of-date"}, :properties {:color "yellow"}} {:id #uuid "62d11ed8-2435-400c-b3fd-4963f527cc8b", :page 3, :position {:bounding {:x1 151.47671508789062, :y1 952.875, :x2 358.6327209472656, :y2 977.875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 151.47671508789062, :y1 952.875, :x2 358.6327209472656, :y2 977.875, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "the number of missing writes"}, :properties {:color "yellow"}} {:id #uuid "62d11ee0-c240-4cbc-a768-4ec52d6e6608", :page 3, :position {:bounding {:x1 421.28515625, :y1 952.875, :x2 603.0367431640625, :y2 977.875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 421.28515625, :y1 952.875, :x2 603.0367431640625, :y2 977.875, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "the amount of inaccuracy"}, :properties {:color "yellow"}} {:id #uuid "62d11ee6-677f-44f4-bcc6-63beaa8c88c2", :page 3, :position {:bounding {:x1 267.2344970703125, :y1 977.640625, :x2 420.0526123046875, :y2 1002.640625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 267.2344970703125, :y1 977.640625, :x2 420.0526123046875, :y2 1002.640625, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "most natural concept"}, :properties {:color "yellow"}} {:id #uuid "62d1272b-67b4-42e0-a320-a121927bb768", :page 3, :position {:bounding {:x1 451.0921936035156, :y1 1042.921875, :x2 578.9010620117188, :y2 1067.921875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 451.0921936035156, :y1 1042.921875, :x2 578.9010620117188, :y2 1067.921875, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "session guarantee"}, :properties {:color "yellow"}} {:id #uuid "62d12730-e4a2-4964-9780-a0ac76e82336", :page 3, :position {:bounding {:x1 86.390625, :y1 1067.6875, :x2 888.044677734375, :y2 1117.25, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 799.4481201171875, :y1 1067.6875, :x2 888.044677734375, :y2 1092.6875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 1092.25, :x2 236.14669799804688, :y2 1117.25, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 1096.25, :x2 236.14669799804688, :y2 1113.25, :width 979.1999999999999, :height 1267.1999999999998}), :page 3}, :content {:text "increasingly up-to-dateover time"}, :properties {:color "yellow"}} {:id #uuid "62d1287c-73d8-47a4-9b96-b91ed7494803", :page 4, :position {:bounding {:x1 818.2013549804688, :y1 303.203125, :x2 877.19970703125, :y2 328.203125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 818.2013549804688, :y1 303.203125, :x2 877.19970703125, :y2 328.203125, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "stronger"}, :properties {:color "yellow"}} {:id #uuid "62d12880-c307-4f68-9a89-37d1e2e9e6ee", :page 4, :position {:bounding {:x1 364.98150634765625, :y1 278.4375, :x2 584.2340087890625, :y2 303.4375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 364.98150634765625, :y1 278.4375, :x2 584.2340087890625, :y2 303.4375, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "a form of eventual consistency"}, :properties {:color "yellow"}} {:id #uuid "62d12885-3fb0-4715-987a-d0357f398266", :page 4, :position {:bounding {:x1 617.68701171875, :y1 278.4375, :x2 714.1240844726562, :y2 303.4375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 617.68701171875, :y1 278.4375, :x2 714.1240844726562, :y2 303.4375, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "stronger than"}, :properties {:color "yellow"}} {:id #uuid "62d12898-df71-4fd0-bcf6-885f9acd6795", :page 4, :position {:bounding {:x1 353.1739501953125, :y1 327.96875, :x2 808.7144775390625, :y2 352.96875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 353.1739501953125, :y1 327.96875, :x2 808.7144775390625, :y2 352.96875, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "each might result in a read operation returning a different value"}, :properties {:color "yellow"}} {:id #uuid "62d12f61-f604-4976-af39-9dbd6946420b", :page 5, :position {:bounding {:x1 164, :y1 96, :x2 821, :y2 390, :width 979.1999999999999, :height 1267.1999999999998}, :rects (), :page 5}, :content {:text "[:span]", :image 1657876320349}, :properties {:color "yellow"}} {:id #uuid "62d12f80-7d90-435b-924d-4cabbcc5694c", :page 4, :position {:bounding {:x1 86.390625, :y1 730.671875, :x2 852.2526245117188, :y2 780.25, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 790.7610473632812, :y1 730.671875, :x2 852.2526245117188, :y2 755.671875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 755.25, :x2 742.60009765625, :y2 780.25, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "But, the general comparisons between the various consistency guarantees are qualitatively accurate"}, :properties {:color "yellow"}} {:id #uuid "62d12fa3-6ff2-4640-b60b-3df46ced4f24", :page 4, :position {:bounding {:x1 175.515625, :y1 681.140625, :x2 555.97412109375, :y2 706.140625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 175.515625, :y1 681.140625, :x2 555.97412109375, :y2 706.140625, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "Labeling each cell in this table is not an exact science"}, :properties {:color "yellow"}} {:id #uuid "62d12ff8-8cd3-4aa4-af50-0f3b2de7d65d", :page 4, :position {:bounding {:x1 86.390625, :y1 755.25, :x2 893.86328125, :y2 829.984375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 754.90625, :y1 755.25, :x2 888.0966796875, :y2 780.25, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 780.015625, :x2 893.86328125, :y2 805.015625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 784.015625, :x2 893.86328125, :y2 801.015625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 804.984375, :x2 144.30686950683594, :y2 829.984375, :width 979.1999999999999, :height 1267.1999999999998}), :page 4}, :content {:text "The bottom line is that one faces substantial trade-offs when choosing a particular replication scheme with a particular consistency model.  "}, :properties {:color "yellow"}} {:id #uuid "62d144e5-e137-479c-b89a-549682f885f6", :page 5, :position {:bounding {:x1 166, :y1 599, :x2 653, :y2 992, :width 839, :height 1085.764705882353}, :rects (), :page 5}, :content {:text "[:span]", :image 1657881828853}, :properties {:color "yellow"}} {:id #uuid "62d145a2-b964-44ea-8274-04b5523b1e47", :page 6, :position {:bounding {:x1 284, :y1 488, :x2 695, :y2 611, :width 979.1999999999999, :height 1267.1999999999998}, :rects (), :page 6}, :content {:text "[:span]", :image 1657882017382}, :properties {:color "yellow"}} {:id #uuid "62d14671-20a3-4275-a0ed-c3730cfac2f9", :page 6, :position {:bounding {:x1 132, :y1 785, :x2 856, :y2 1104, :width 979.1999999999999, :height 1267.1999999999998}, :rects (), :page 6}, :content {:text "[:span]", :image 1657882224245}, :properties {:color "yellow"}} {:id #uuid "62d14844-d23e-4e5c-ab2b-1f5d42ed44f9", :page 7, :position {:bounding {:x1 86.390625, :y1 139.046875, :x2 867.8502807617188, :y2 188.625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 454.15692138671875, :y1 139.046875, :x2 867.8502807617188, :y2 164.046875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 163.625, :x2 123.97540283203125, :y2 188.625, :width 979.1999999999999, :height 1267.1999999999998}), :page 7}, :content {:text "many of these scores are ones that were never the actual score"}, :properties {:color "yellow"}} {:id #uuid "62d1485c-89d6-4af5-9c58-cdefd0166604", :page 7, :position {:bounding {:x1 571.7001342773438, :y1 163.625, :x2 783.6246337890625, :y2 188.625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 571.7001342773438, :y1 163.625, :x2 783.6246337890625, :y2 188.625, :width 979.1999999999999, :height 1267.1999999999998}), :page 7}, :content {:text "actually existed at some time."}, :properties {:color "yellow"}} {:id #uuid "62d161c1-a8e3-46a9-b347-752df31ae3ca", :page 7, :position {:bounding {:x1 86.390625, :y1 213.15625, :x2 885.9256591796875, :y2 262.734375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 779.09423828125, :y1 213.15625, :x2 885.9256591796875, :y2 238.15625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 237.734375, :x2 707.391357421875, :y2 262.734375, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 241.734375, :x2 707.391357421875, :y2 258.734375, :width 979.1999999999999, :height 1267.1999999999998}), :page 7}, :content {:text "for a bound of 7 innings or more, the result set is the same as for eventual consistencyin this example"}, :properties {:color "yellow"}} {:id #uuid "62d1658d-36c7-493e-b9fb-e6b699723040", :page 7, :position {:bounding {:x1 336.8334045410156, :y1 528.859375, :x2 855.8075256347656, :y2 553.859375, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 336.8334045410156, :y1 528.859375, :x2 855.8075256347656, :y2 553.859375, :width 979.1999999999999, :height 1267.1999999999998}), :page 7}, :content {:text "may even find that the data they are requesting is not currently available"}, :properties {:color "yellow"}} {:id #uuid "62d165c3-ff9d-4a86-9293-294fec0a7250", :page 7, :position {:bounding {:x1 86.390625, :y1 553.625, :x2 872.6531372070312, :y2 603.203125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 723.3297729492188, :y1 553.625, :x2 872.6531372070312, :y2 578.625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 578.203125, :x2 382.0613708496094, :y2 603.203125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 582.203125, :x2 196.125, :y2 599.203125, :width 979.1999999999999, :height 1267.1999999999998}), :page 7}, :content {:text "for each participant, the minimumconsistency that is required"}, :properties {:color "yellow"}} {:id #uuid "62d1666d-a4fd-41c1-a086-362a9c990c17", :page 7, :position {:bounding {:x1 212, :y1 796, :x2 737, :y2 939, :width 979.1999999999999, :height 1267.1999999999998}, :rects (), :page 7}, :content {:text "[:span]", :image 1657890412660}, :properties {:color "yellow"}} {:id #uuid "62d169d6-2afc-40cf-a629-d3736ae4d389", :page 8, :position {:bounding {:x1 401.49432373046875, :y1 139.046875, :x2 678.03564453125, :y2 164.046875, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 401.49432373046875, :y1 139.046875, :x2 678.03564453125, :y2 164.046875, :width 979.1999999999999, :height 1267.1999999999998} {:x1 428.609375, :y1 143.046875, :x2 458.6300354003906, :y2 160.046875, :width 979.1999999999999, :height 1267.1999999999998}), :page 8}, :content {:text "the onlyperson who updates the score"}, :properties {:color "yellow"}} {:id #uuid "62d3c54e-247f-4551-83b2-fdd6ca310c4e", :page 8, :position {:bounding {:x1 186, :y1 639, :x2 693, :y2 814, :width 897.6, :height 1161.6000000000001}, :rects (), :page 8}, :content {:text "[:span]", :image 1658045773254}, :properties {:color "yellow"}} {:id #uuid "62d3c9c1-e12e-4a63-a8b4-44f0bcb05fb8", :page 9, :position {:bounding {:x1 190, :y1 247, :x2 680, :y2 447, :width 897.6, :height 1161.6000000000001}, :rects (), :page 9}, :content {:text "[:span]", :image 1658046912830}, :properties {:color "yellow"}} {:id #uuid "62d3ce15-e66c-4e8b-9416-09133ff4603c", :page 9, :position {:bounding {:x1 79.1875, :y1 548.515625, :x2 815.7753295898438, :y2 594.046875, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 662.81201171875, :y1 548.515625, :x2 815.7753295898438, :y2 571.515625, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 571.046875, :x2 168.70887756347656, :y2 594.046875, :width 897.6, :height 1161.6000000000001}), :page 9}, :content {:text "may return scores that never existed."}, :properties {:color "yellow"}} {:id #uuid "62d3d095-4d4f-4f0d-a91f-596383b4194b", :page 9, :position {:bounding {:x1 79.1875, :y1 812.1875, :x2 760.19091796875, :y2 858.0625, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 564.179443359375, :y1 812.1875, :x2 760.19091796875, :y2 835.1875, :width 897.6, :height 1161.6000000000001} {:x1 650.421875, :y1 816.1875, :x2 760.19091796875, :y2 832.1875, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 835.0625, :x2 433.91259765625, :y2 858.0625, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 839.0625, :x2 433.91259765625, :y2 855.0625, :width 897.6, :height 1161.6000000000001}), :page 9}, :content {:text "requests the monotonic readsguarantee in addition to requesting a consistent prefix"}, :properties {:color "yellow"}} {:id #uuid "62d3d434-9f83-423f-b555-c11a311cc72a", :page 10, :position {:bounding {:x1 186, :y1 215, :x2 682, :y2 467, :width 897.6, :height 1161.6000000000001}, :rects (), :page 10}, :content {:text "[:span]", :image 1658049587110}, :properties {:color "yellow"}} {:id #uuid "62d3dd73-697e-4ff7-bb7f-ac273117997b", :page 10, :position {:bounding {:x1 188, :y1 861, :x2 681, :y2 1036, :width 897.6, :height 1161.6000000000001}, :rects (), :page 10}, :content {:text "[:span]", :image 1658051954548}, :properties {:color "yellow"}} {:id #uuid "62d3de3d-b344-4630-9b2e-77b779d75386", :page 11, :position {:bounding {:x1 226, :y1 254.90625, :x2 323.2396240234375, :y2 277.90625, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 226, :y1 254.90625, :x2 323.2396240234375, :y2 277.90625, :width 897.6, :height 1161.6000000000001}), :page 11}, :content {:text "read my writes"}, :properties {:color "yellow"}} {:id #uuid "62d3de46-82f9-495a-94a8-572f874f8f0e", :page 11, :position {:bounding {:x1 152.95693969726562, :y1 209.671875, :x2 273.3757629394531, :y2 232.671875, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 152.95693969726562, :y1 209.671875, :x2 273.3757629394531, :y2 232.671875, :width 897.6, :height 1161.6000000000001}), :page 11}, :content {:text "strongconsistency"}, :properties {:color "yellow"}} {:id #uuid "62d3ded7-d6fe-4f12-b622-f20385c6a58a", :page 11, :position {:bounding {:x1 179, :y1 444, :x2 689, :y2 637, :width 897.6, :height 1161.6000000000001}, :rects (), :page 11}, :content {:text "[:span]", :image 1658052310375}, :properties {:color "yellow"}} {:id #uuid "62d3e043-c28a-4169-bbc3-0023ee3b680c", :page 11, :position {:bounding {:x1 171.85606384277344, :y1 843.515625, :x2 348.77197265625, :y2 866.515625, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 171.85606384277344, :y1 843.515625, :x2 348.77197265625, :y2 866.515625, :width 897.6, :height 1161.6000000000001}), :page 11}, :content {:text "balance the read workload "}, :properties {:color "yellow"}} {:id #uuid "62d3e080-f41c-40f6-8245-5ac0de27f4ce", :page 12, :position {:bounding {:x1 79.1875, :y1 409.65625, :x2 746.6862182617188, :y2 455.171875, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 691.1576538085938, :y1 409.65625, :x2 746.6862182617188, :y2 432.65625, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 432.171875, :x2 275.0824890136719, :y2 455.171875, :width 897.6, :height 1161.6000000000001}), :page 12}, :content {:text "multiple guarantees must be combined"}, :properties {:color "yellow"}} {:id #uuid "62d3e092-17ec-45e8-abc9-54ce16be649b", :page 12, :position {:bounding {:x1 79.1875, :y1 432.171875, :x2 786.9417114257812, :y2 478.0625, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 727.0437622070312, :y1 432.171875, :x2 786.9417114257812, :y2 455.171875, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 455.0625, :x2 230.1034393310547, :y2 478.0625, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 459.0625, :x2 181.35305786132812, :y2 475.0625, :width 897.6, :height 1161.6000000000001}), :page 12}, :content {:text "different guarantees are desired"}, :properties {:color "yellow"}} {:id #uuid "62d3e0a7-d59f-4d3d-b037-e8f6a62e9613", :page 12, :position {:bounding {:x1 79.1875, :y1 386.9375, :x2 815.9005126953125, :y2 432.65625, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 233.27490234375, :y1 386.9375, :x2 815.9005126953125, :y2 409.9375, :width 897.6, :height 1161.6000000000001} {:x1 334.296875, :y1 390.9375, :x2 815.9005126953125, :y2 406.9375, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 409.65625, :x2 399.2616271972656, :y2 432.65625, :width 897.6, :height 1161.6000000000001} {:x1 79.1875, :y1 413.65625, :x2 330.3420715332031, :y2 429.65625, :width 897.6, :height 1161.6000000000001}), :page 12}, :content {:text "he can obtain strongly consistent data even when issuing a weakly consistent read using a read my writesor bounded stalenessguarantee"}, :properties {:color "yellow"}} {:id #uuid "62d512f6-da5d-4be1-b6ea-d69f39098df7", :page 12, :position {:bounding {:x1 233.49667358398438, :y1 1095.140625, :x2 573.2249755859375, :y2 1120.140625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 233.49667358398438, :y1 1095.140625, :x2 573.2249755859375, :y2 1120.140625, :width 979.1999999999999, :height 1267.1999999999998}), :page 12}, :content {:text " increases the burden on application developers"}, :properties {:color "yellow"}} {:id #uuid "62d513cd-156d-4d72-b2b4-babbac4d77b1", :page 13, :position {:bounding {:x1 86.390625, :y1 567.015625, :x2 323.6408386230469, :y2 599.015625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 86.390625, :y1 567.015625, :x2 104.8003158569336, :y2 599.015625, :width 979.1999999999999, :height 1267.1999999999998} {:x1 115.234375, :y1 567.015625, :x2 323.6408386230469, :y2 599.015625, :width 979.1999999999999, :height 1267.1999999999998}), :page 13}, :content {:text "6.Additional Readings"}, :properties {:color "yellow"}} {:id #uuid "62d51547-3271-466e-b669-a9e1a35994c2", :page 13, :position {:bounding {:x1 326.5296936035156, :y1 355.8125, :x2 383.7336730957031, :y2 380.8125, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 326.5296936035156, :y1 355.8125, :x2 383.7336730957031, :y2 380.8125, :width 979.1999999999999, :height 1267.1999999999998}), :page 13}, :content {:text "tangible"}, :properties {:color "yellow"}} {:id #uuid "62d51584-a663-4fa1-9cac-1d2014a95f2d", :page 13, :position {:bounding {:x1 86.390625, :y1 380.578125, :x2 886.1226806640625, :y2 430.390625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 231.765625, :y1 380.578125, :x2 886.1226806640625, :y2 405.578125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 698.59375, :y1 384.578125, :x2 886.1226806640625, :y2 401.578125, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 405.390625, :x2 218.4371337890625, :y2 430.390625, :width 979.1999999999999, :height 1267.1999999999998}), :page 13}, :content {:text "This suggests that cloud storage systems should at least consider offering a largerchoice of read consistencies"}, :properties {:color "yellow"}} {:id #uuid "62d515da-037b-4ae5-b135-923ed19d0930", :page 13, :position {:bounding {:x1 86.390625, :y1 454.734375, :x2 815.5117797851562, :y2 504.515625, :width 979.1999999999999, :height 1267.1999999999998}, :rects ({:x1 185.296875, :y1 454.734375, :x2 815.5117797851562, :y2 479.734375, :width 979.1999999999999, :height 1267.1999999999998} {:x1 250.96875, :y1 458.734375, :x2 815.5117797851562, :y2 475.734375, :width 979.1999999999999, :height 1267.1999999999998} {:x1 86.390625, :y1 479.515625, :x2 164.18154907226562, :y2 504.515625, :width 979.1999999999999, :height 1267.1999999999998}), :page 13}, :content {:text "Allowing cloud storageclients to read from diversereplicaswith achoice of consistency guarantees"}, :properties {:color "yellow"}}], :extra {:page 13}}
+{:highlights
+ [{:id #uuid "62d0deab-b16f-4ccf-aaf0-350a5a0695e6",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 454.359375,
+     :x2 881.9840698242188,
+     :y2 504.125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 576.94580078125,
+      :y1 454.359375,
+      :x2 881.9840698242188,
+      :y2 479.359375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 479.125,
+      :x2 165.13125610351562,
+      :y2 504.125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 1},
+   :content
+   {:text "in order to obtain better performance and availability."},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0df3d-d74a-4345-ba98-92f60e502070",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 503.703125,
+     :x2 894.0286102294922,
+     :y2 553.46875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 185.4690399169922,
+      :y1 503.703125,
+      :x2 894.0286102294922,
+      :y2 528.703125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 528.46875,
+      :x2 752.8282470703125,
+      :y2 553.46875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 532.46875,
+      :x2 706.8395385742188,
+      :y2 549.46875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 1},
+   :content
+   {:text
+    "During a baseball game, for example, different participants (the scorekeeper, umpire, sportswriter, and so on) benefit from six different consistency guarantees when reading the current score. "},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e180-b1b3-41f8-854e-26174804ec1b",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 331.46783447265625,
+     :y1 999.71875,
+     :x2 472.5189208984375,
+     :y2 1024.71875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 331.46783447265625,
+      :y1 999.71875,
+      :x2 472.5189208984375,
+      :y2 1024.71875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 1},
+   :content {:text "Amazon’s SimpleDB"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e186-ec65-4849-b08a-a57aa11c0ce1",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 1049.25,
+     :x2 825.9273071289062,
+     :y2 1098.828125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 684.9506225585938,
+      :y1 1049.25,
+      :x2 825.9273071289062,
+      :y2 1074.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 1073.828125,
+      :x2 156.3876953125,
+      :y2 1098.828125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 1077.828125,
+      :x2 98.859375,
+      :y2 1094.828125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 1},
+   :content {:text "Google App Engine Datastore"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e208-35b5-41ec-a840-0a33029120cb",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 744.53125,
+     :y1 1073.828125,
+     :x2 792.9059448242188,
+     :y2 1098.828125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 744.53125,
+      :y1 1073.828125,
+      :x2 792.9059448242188,
+      :y2 1098.828125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 1},
+   :content {:text "PNUTS"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e372-44b0-46be-965b-3ffa3a3bdbbc",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 163.625,
+     :x2 883.8258666992188,
+     :y2 213.390625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 861.417236328125,
+      :y1 163.625,
+      :x2 883.8258666992188,
+      :y2 188.625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 188.390625,
+      :x2 321.65264892578125,
+      :y2 213.390625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 192.390625,
+      :x2 295.640625,
+      :y2 209.390625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content {:text "no more than 5 minutes out-of-date"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e379-0a6e-4ea8-b1de-2609b1e745b5",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 436.0552673339844,
+     :y1 188.390625,
+     :x2 754.465087890625,
+     :y2 213.390625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 436.0552673339844,
+      :y1 188.390625,
+      :x2 754.465087890625,
+      :y2 213.390625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content {:text "always observes the results of its own writes"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e3af-89ff-493c-b600-4ce6204400a9",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 695.5887451171875,
+     :y1 213.34375,
+     :x2 852.6360473632812,
+     :y2 238.34375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 695.5887451171875,
+      :y1 213.34375,
+      :x2 852.6360473632812,
+      :y2 238.34375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 767.1875,
+      :y1 217.34375,
+      :x2 816.09375,
+      :y2 234.34375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content {:text "being less-than-useful"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e412-3eca-4970-9b2f-01b4211b1846",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 253.859375,
+     :x2 826.1068115234375,
+     :y2 303.4375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 522.7178955078125,
+      :y1 253.859375,
+      :x2 826.1068115234375,
+      :y2 278.859375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 278.4375,
+      :x2 387.9139099121094,
+      :y2 303.4375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content
+   {:text
+    " there are fundamental tradeoffs between consistency, performance, and availability."},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e425-42ee-4954-8948-01c9e210d460",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 707.7753295898438,
+     :y1 303.203125,
+     :x2 854.0531005859375,
+     :y2 328.203125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 707.7753295898438,
+      :y1 303.203125,
+      :x2 854.0531005859375,
+      :y2 328.203125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content {:text "occupies some point"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e4e7-31bd-43ef-8fb8-4a8d958fc1f3",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 368.671875,
+     :x2 875.0911254882812,
+     :y2 443.265625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 86.390625,
+      :y1 368.671875,
+      :x2 875.0911254882812,
+      :y2 393.671875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 442.4375,
+      :y1 372.671875,
+      :x2 875.0911254882812,
+      :y2 389.671875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 393.25,
+      :x2 857.3482055664062,
+      :y2 418.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 397.25,
+      :x2 857.3482055664062,
+      :y2 414.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 418.265625,
+      :x2 432.0050048828125,
+      :y2 443.265625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content
+   {:text
+    "But are different consistencies useful in practice?  Can applicationdevelopers cope with eventual consistency?  Should cloud storage systems offer an even greater choice of consistency than the consistent and eventually consistent reads offered by Amazon’s SimpleDB?"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e5dd-ca14-4aea-b9a2-4ccd2f2c3b83",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 623.125,
+     :x2 859.3843994140625,
+     :y2 672.703125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 542.3125,
+      :y1 623.125,
+      :x2 859.3843994140625,
+      :y2 648.125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 564.78125,
+      :y1 627.125,
+      :x2 859.3843994140625,
+      :y2 644.125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 647.703125,
+      :x2 161.88717651367188,
+      :y2 672.703125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content
+   {:text "sixpossible consistency guarantees for read operations"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e5ec-3d3e-47d9-ae87-f47e2cfd7b8c",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 697.265625,
+     :x2 832.8244018554688,
+     :y2 747.03125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 193.375,
+      :y1 697.265625,
+      :x2 832.8244018554688,
+      :y2 722.265625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 193.375,
+      :y1 701.265625,
+      :x2 832.8244018554688,
+      :y2 718.265625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 722.03125,
+      :x2 296.0364074707031,
+      :y2 747.03125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content
+   {:text
+    "examines the roles of various people who want to access the baseball score and the read consistency that each desires"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e5f4-268b-4212-9bef-771cd8dd7f8f",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 371.9812316894531,
+     :y1 722.03125,
+     :x2 679.2930908203125,
+     :y2 747.03125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 371.9812316894531,
+      :y1 722.03125,
+      :x2 679.2930908203125,
+      :y2 747.03125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content {:text "draw conclusions from this simple example"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d0e603-076d-42b1-95a2-38fb331e623e",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 245.78125,
+     :y1 647.703125,
+     :x2 623.4410400390625,
+     :y2 672.703125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 245.78125,
+      :y1 647.703125,
+      :x2 623.4410400390625,
+      :y2 672.703125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content
+   {:text "presents an algorithm that emulates a baseball game"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d10425-a2ed-47f6-b6a1-669d20ce25dc",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 954.796875,
+     :x2 860.625,
+     :y2 1004.5625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 524.681396484375,
+      :y1 954.796875,
+      :x2 860.625,
+      :y2 979.796875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 525,
+      :y1 958.796875,
+      :x2 860.625,
+      :y2 975.796875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 979.5625,
+      :x2 211.00326538085938,
+      :y2 1004.5625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 2},
+   :content
+   {:text
+    "can be described in a simple, implementation-independent way."},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d1049d-f538-4bcb-8515-6549b2138b58",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 235,
+     :y1 237,
+     :x2 754,
+     :y2 488,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects (),
+    :page 3},
+   :content {:text "[:span]", :image 1657865372808},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d10a15-253b-4d18-886b-9546ea8804a6",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 739.125,
+     :x2 888.3805541992188,
+     :y2 788.890625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 572.9182739257812,
+      :y1 739.125,
+      :x2 888.3805541992188,
+      :y2 764.125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 763.890625,
+      :x2 186.6814727783203,
+      :y2 788.890625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content
+   {:text
+    "an ordered sequence of writes starting with the first write "},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d10a5f-81a8-4914-b51d-f6e5fa845167",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 433.617431640625,
+     :y1 878.703125,
+     :x2 569.986328125,
+     :y2 903.703125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 433.617431640625,
+      :y1 878.703125,
+      :x2 569.986328125,
+      :y2 903.703125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 513.484375,
+      :y1 882.703125,
+      :x2 544.359375,
+      :y2 899.703125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content {:text "not too out-of-date"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d11ed8-2435-400c-b3fd-4963f527cc8b",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 151.47671508789062,
+     :y1 952.875,
+     :x2 358.6327209472656,
+     :y2 977.875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 151.47671508789062,
+      :y1 952.875,
+      :x2 358.6327209472656,
+      :y2 977.875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content {:text "the number of missing writes"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d11ee0-c240-4cbc-a768-4ec52d6e6608",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 421.28515625,
+     :y1 952.875,
+     :x2 603.0367431640625,
+     :y2 977.875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 421.28515625,
+      :y1 952.875,
+      :x2 603.0367431640625,
+      :y2 977.875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content {:text "the amount of inaccuracy"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d11ee6-677f-44f4-bcc6-63beaa8c88c2",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 267.2344970703125,
+     :y1 977.640625,
+     :x2 420.0526123046875,
+     :y2 1002.640625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 267.2344970703125,
+      :y1 977.640625,
+      :x2 420.0526123046875,
+      :y2 1002.640625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content {:text "most natural concept"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d1272b-67b4-42e0-a320-a121927bb768",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 451.0921936035156,
+     :y1 1042.921875,
+     :x2 578.9010620117188,
+     :y2 1067.921875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 451.0921936035156,
+      :y1 1042.921875,
+      :x2 578.9010620117188,
+      :y2 1067.921875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content {:text "session guarantee"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12730-e4a2-4964-9780-a0ac76e82336",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 1067.6875,
+     :x2 888.044677734375,
+     :y2 1117.25,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 799.4481201171875,
+      :y1 1067.6875,
+      :x2 888.044677734375,
+      :y2 1092.6875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 1092.25,
+      :x2 236.14669799804688,
+      :y2 1117.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 1096.25,
+      :x2 236.14669799804688,
+      :y2 1113.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 3},
+   :content {:text "increasingly up-to-dateover time"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d1287c-73d8-47a4-9b96-b91ed7494803",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 818.2013549804688,
+     :y1 303.203125,
+     :x2 877.19970703125,
+     :y2 328.203125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 818.2013549804688,
+      :y1 303.203125,
+      :x2 877.19970703125,
+      :y2 328.203125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content {:text "stronger"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12880-c307-4f68-9a89-37d1e2e9e6ee",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 364.98150634765625,
+     :y1 278.4375,
+     :x2 584.2340087890625,
+     :y2 303.4375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 364.98150634765625,
+      :y1 278.4375,
+      :x2 584.2340087890625,
+      :y2 303.4375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content {:text "a form of eventual consistency"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12885-3fb0-4715-987a-d0357f398266",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 617.68701171875,
+     :y1 278.4375,
+     :x2 714.1240844726562,
+     :y2 303.4375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 617.68701171875,
+      :y1 278.4375,
+      :x2 714.1240844726562,
+      :y2 303.4375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content {:text "stronger than"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12898-df71-4fd0-bcf6-885f9acd6795",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 353.1739501953125,
+     :y1 327.96875,
+     :x2 808.7144775390625,
+     :y2 352.96875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 353.1739501953125,
+      :y1 327.96875,
+      :x2 808.7144775390625,
+      :y2 352.96875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content
+   {:text
+    "each might result in a read operation returning a different value"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12f61-f604-4976-af39-9dbd6946420b",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 164,
+     :y1 96,
+     :x2 821,
+     :y2 390,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects (),
+    :page 5},
+   :content {:text "[:span]", :image 1657876320349},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12f80-7d90-435b-924d-4cabbcc5694c",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 730.671875,
+     :x2 852.2526245117188,
+     :y2 780.25,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 790.7610473632812,
+      :y1 730.671875,
+      :x2 852.2526245117188,
+      :y2 755.671875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 755.25,
+      :x2 742.60009765625,
+      :y2 780.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content
+   {:text
+    "But, the general comparisons between the various consistency guarantees are qualitatively accurate"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12fa3-6ff2-4640-b60b-3df46ced4f24",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 175.515625,
+     :y1 681.140625,
+     :x2 555.97412109375,
+     :y2 706.140625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 175.515625,
+      :y1 681.140625,
+      :x2 555.97412109375,
+      :y2 706.140625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content
+   {:text "Labeling each cell in this table is not an exact science"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d12ff8-8cd3-4aa4-af50-0f3b2de7d65d",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 755.25,
+     :x2 893.86328125,
+     :y2 829.984375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 754.90625,
+      :y1 755.25,
+      :x2 888.0966796875,
+      :y2 780.25,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 780.015625,
+      :x2 893.86328125,
+      :y2 805.015625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 784.015625,
+      :x2 893.86328125,
+      :y2 801.015625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 804.984375,
+      :x2 144.30686950683594,
+      :y2 829.984375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 4},
+   :content
+   {:text
+    "The bottom line is that one faces substantial trade-offs when choosing a particular replication scheme with a particular consistency model.  "},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d144e5-e137-479c-b89a-549682f885f6",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 166,
+     :y1 599,
+     :x2 653,
+     :y2 992,
+     :width 839,
+     :height 1085.764705882353},
+    :rects (),
+    :page 5},
+   :content {:text "[:span]", :image 1657881828853},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d145a2-b964-44ea-8274-04b5523b1e47",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 284,
+     :y1 488,
+     :x2 695,
+     :y2 611,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects (),
+    :page 6},
+   :content {:text "[:span]", :image 1657882017382},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d14671-20a3-4275-a0ed-c3730cfac2f9",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 132,
+     :y1 785,
+     :x2 856,
+     :y2 1104,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects (),
+    :page 6},
+   :content {:text "[:span]", :image 1657882224245},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d14844-d23e-4e5c-ab2b-1f5d42ed44f9",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 139.046875,
+     :x2 867.8502807617188,
+     :y2 188.625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 454.15692138671875,
+      :y1 139.046875,
+      :x2 867.8502807617188,
+      :y2 164.046875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 163.625,
+      :x2 123.97540283203125,
+      :y2 188.625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 7},
+   :content
+   {:text
+    "many of these scores are ones that were never the actual score"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d1485c-89d6-4af5-9c58-cdefd0166604",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 571.7001342773438,
+     :y1 163.625,
+     :x2 783.6246337890625,
+     :y2 188.625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 571.7001342773438,
+      :y1 163.625,
+      :x2 783.6246337890625,
+      :y2 188.625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 7},
+   :content {:text "actually existed at some time."},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d161c1-a8e3-46a9-b347-752df31ae3ca",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 213.15625,
+     :x2 885.9256591796875,
+     :y2 262.734375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 779.09423828125,
+      :y1 213.15625,
+      :x2 885.9256591796875,
+      :y2 238.15625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 237.734375,
+      :x2 707.391357421875,
+      :y2 262.734375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 241.734375,
+      :x2 707.391357421875,
+      :y2 258.734375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 7},
+   :content
+   {:text
+    "for a bound of 7 innings or more, the result set is the same as for eventual consistencyin this example"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d1658d-36c7-493e-b9fb-e6b699723040",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 336.8334045410156,
+     :y1 528.859375,
+     :x2 855.8075256347656,
+     :y2 553.859375,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 336.8334045410156,
+      :y1 528.859375,
+      :x2 855.8075256347656,
+      :y2 553.859375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 7},
+   :content
+   {:text
+    "may even find that the data they are requesting is not currently available"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d165c3-ff9d-4a86-9293-294fec0a7250",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 553.625,
+     :x2 872.6531372070312,
+     :y2 603.203125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 723.3297729492188,
+      :y1 553.625,
+      :x2 872.6531372070312,
+      :y2 578.625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 578.203125,
+      :x2 382.0613708496094,
+      :y2 603.203125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 582.203125,
+      :x2 196.125,
+      :y2 599.203125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 7},
+   :content
+   {:text
+    "for each participant, the minimumconsistency that is required"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d1666d-a4fd-41c1-a086-362a9c990c17",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 212,
+     :y1 796,
+     :x2 737,
+     :y2 939,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects (),
+    :page 7},
+   :content {:text "[:span]", :image 1657890412660},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d169d6-2afc-40cf-a629-d3736ae4d389",
+   :page 8,
+   :position
+   {:bounding
+    {:x1 401.49432373046875,
+     :y1 139.046875,
+     :x2 678.03564453125,
+     :y2 164.046875,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 401.49432373046875,
+      :y1 139.046875,
+      :x2 678.03564453125,
+      :y2 164.046875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 428.609375,
+      :y1 143.046875,
+      :x2 458.6300354003906,
+      :y2 160.046875,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 8},
+   :content {:text "the onlyperson who updates the score"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3c54e-247f-4551-83b2-fdd6ca310c4e",
+   :page 8,
+   :position
+   {:bounding
+    {:x1 186,
+     :y1 639,
+     :x2 693,
+     :y2 814,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects (),
+    :page 8},
+   :content {:text "[:span]", :image 1658045773254},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3c9c1-e12e-4a63-a8b4-44f0bcb05fb8",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 190,
+     :y1 247,
+     :x2 680,
+     :y2 447,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects (),
+    :page 9},
+   :content {:text "[:span]", :image 1658046912830},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3ce15-e66c-4e8b-9416-09133ff4603c",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 79.1875,
+     :y1 548.515625,
+     :x2 815.7753295898438,
+     :y2 594.046875,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 662.81201171875,
+      :y1 548.515625,
+      :x2 815.7753295898438,
+      :y2 571.515625,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 571.046875,
+      :x2 168.70887756347656,
+      :y2 594.046875,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 9},
+   :content {:text "may return scores that never existed."},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3d095-4d4f-4f0d-a91f-596383b4194b",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 79.1875,
+     :y1 812.1875,
+     :x2 760.19091796875,
+     :y2 858.0625,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 564.179443359375,
+      :y1 812.1875,
+      :x2 760.19091796875,
+      :y2 835.1875,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 650.421875,
+      :y1 816.1875,
+      :x2 760.19091796875,
+      :y2 832.1875,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 835.0625,
+      :x2 433.91259765625,
+      :y2 858.0625,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 839.0625,
+      :x2 433.91259765625,
+      :y2 855.0625,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 9},
+   :content
+   {:text
+    "requests the monotonic readsguarantee in addition to requesting a consistent prefix"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3d434-9f83-423f-b555-c11a311cc72a",
+   :page 10,
+   :position
+   {:bounding
+    {:x1 186,
+     :y1 215,
+     :x2 682,
+     :y2 467,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects (),
+    :page 10},
+   :content {:text "[:span]", :image 1658049587110},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3dd73-697e-4ff7-bb7f-ac273117997b",
+   :page 10,
+   :position
+   {:bounding
+    {:x1 188,
+     :y1 861,
+     :x2 681,
+     :y2 1036,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects (),
+    :page 10},
+   :content {:text "[:span]", :image 1658051954548},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3de3d-b344-4630-9b2e-77b779d75386",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 226,
+     :y1 254.90625,
+     :x2 323.2396240234375,
+     :y2 277.90625,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 226,
+      :y1 254.90625,
+      :x2 323.2396240234375,
+      :y2 277.90625,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 11},
+   :content {:text "read my writes"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3de46-82f9-495a-94a8-572f874f8f0e",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 152.95693969726562,
+     :y1 209.671875,
+     :x2 273.3757629394531,
+     :y2 232.671875,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 152.95693969726562,
+      :y1 209.671875,
+      :x2 273.3757629394531,
+      :y2 232.671875,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 11},
+   :content {:text "strongconsistency"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3ded7-d6fe-4f12-b622-f20385c6a58a",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 179,
+     :y1 444,
+     :x2 689,
+     :y2 637,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects (),
+    :page 11},
+   :content {:text "[:span]", :image 1658052310375},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3e043-c28a-4169-bbc3-0023ee3b680c",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 171.85606384277344,
+     :y1 843.515625,
+     :x2 348.77197265625,
+     :y2 866.515625,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 171.85606384277344,
+      :y1 843.515625,
+      :x2 348.77197265625,
+      :y2 866.515625,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 11},
+   :content {:text "balance the read workload "},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3e080-f41c-40f6-8245-5ac0de27f4ce",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 79.1875,
+     :y1 409.65625,
+     :x2 746.6862182617188,
+     :y2 455.171875,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 691.1576538085938,
+      :y1 409.65625,
+      :x2 746.6862182617188,
+      :y2 432.65625,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 432.171875,
+      :x2 275.0824890136719,
+      :y2 455.171875,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 12},
+   :content {:text "multiple guarantees must be combined"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3e092-17ec-45e8-abc9-54ce16be649b",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 79.1875,
+     :y1 432.171875,
+     :x2 786.9417114257812,
+     :y2 478.0625,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 727.0437622070312,
+      :y1 432.171875,
+      :x2 786.9417114257812,
+      :y2 455.171875,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 455.0625,
+      :x2 230.1034393310547,
+      :y2 478.0625,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 459.0625,
+      :x2 181.35305786132812,
+      :y2 475.0625,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 12},
+   :content {:text "different guarantees are desired"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d3e0a7-d59f-4d3d-b037-e8f6a62e9613",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 79.1875,
+     :y1 386.9375,
+     :x2 815.9005126953125,
+     :y2 432.65625,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 233.27490234375,
+      :y1 386.9375,
+      :x2 815.9005126953125,
+      :y2 409.9375,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 334.296875,
+      :y1 390.9375,
+      :x2 815.9005126953125,
+      :y2 406.9375,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 409.65625,
+      :x2 399.2616271972656,
+      :y2 432.65625,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 79.1875,
+      :y1 413.65625,
+      :x2 330.3420715332031,
+      :y2 429.65625,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 12},
+   :content
+   {:text
+    "he can obtain strongly consistent data even when issuing a weakly consistent read using a read my writesor bounded stalenessguarantee"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d512f6-da5d-4be1-b6ea-d69f39098df7",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 233.49667358398438,
+     :y1 1095.140625,
+     :x2 573.2249755859375,
+     :y2 1120.140625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 233.49667358398438,
+      :y1 1095.140625,
+      :x2 573.2249755859375,
+      :y2 1120.140625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 12},
+   :content {:text " increases the burden on application developers"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d513cd-156d-4d72-b2b4-babbac4d77b1",
+   :page 13,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 567.015625,
+     :x2 323.6408386230469,
+     :y2 599.015625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 86.390625,
+      :y1 567.015625,
+      :x2 104.8003158569336,
+      :y2 599.015625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 115.234375,
+      :y1 567.015625,
+      :x2 323.6408386230469,
+      :y2 599.015625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 13},
+   :content {:text "6.Additional Readings"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d51547-3271-466e-b669-a9e1a35994c2",
+   :page 13,
+   :position
+   {:bounding
+    {:x1 326.5296936035156,
+     :y1 355.8125,
+     :x2 383.7336730957031,
+     :y2 380.8125,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 326.5296936035156,
+      :y1 355.8125,
+      :x2 383.7336730957031,
+      :y2 380.8125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 13},
+   :content {:text "tangible"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d51584-a663-4fa1-9cac-1d2014a95f2d",
+   :page 13,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 380.578125,
+     :x2 886.1226806640625,
+     :y2 430.390625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 231.765625,
+      :y1 380.578125,
+      :x2 886.1226806640625,
+      :y2 405.578125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 698.59375,
+      :y1 384.578125,
+      :x2 886.1226806640625,
+      :y2 401.578125,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 405.390625,
+      :x2 218.4371337890625,
+      :y2 430.390625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 13},
+   :content
+   {:text
+    "This suggests that cloud storage systems should at least consider offering a largerchoice of read consistencies"},
+   :properties {:color "yellow"}}
+  {:id #uuid "62d515da-037b-4ae5-b135-923ed19d0930",
+   :page 13,
+   :position
+   {:bounding
+    {:x1 86.390625,
+     :y1 454.734375,
+     :x2 815.5117797851562,
+     :y2 504.515625,
+     :width 979.1999999999999,
+     :height 1267.1999999999998},
+    :rects
+    ({:x1 185.296875,
+      :y1 454.734375,
+      :x2 815.5117797851562,
+      :y2 479.734375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 250.96875,
+      :y1 458.734375,
+      :x2 815.5117797851562,
+      :y2 475.734375,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}
+     {:x1 86.390625,
+      :y1 479.515625,
+      :x2 164.18154907226562,
+      :y2 504.515625,
+      :width 979.1999999999999,
+      :height 1267.1999999999998}),
+    :page 13},
+   :content
+   {:text
+    "Allowing cloud storageclients to read from diversereplicaswith achoice of consistency guarantees"},
+   :properties {:color "yellow"}}], 
+ :extra {:page 3}}
